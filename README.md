@@ -6,6 +6,15 @@
 
 shusei-local-map は、WordPress サイトにローカルマップ機能を追加するためのプラグインです。地図の表示やカスタマイズが可能です。
 
+## 必須プラグイン
+
+このプラグインを利用するには、以下の 2 つのプラグインが必須です。
+
+- [Advanced Custom Fields (ACF)](https://ja.wordpress.org/plugins/advanced-custom-fields/)
+- [ACF to REST API](https://ja.wordpress.org/plugins/acf-to-rest-api/)
+
+これらを事前にインストール・有効化してください。
+
 ## インストール方法
 
 1. このリポジトリをダウンロードします。
